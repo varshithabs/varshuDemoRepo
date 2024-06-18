@@ -1,0 +1,9 @@
+{
+	"name": "ADFvaruDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6fbb86e4-57ca-472f-bbca-75facd811adf",
+		"tenantId": "9f3b36c7-be11-4300-b89e-8b8e6c4a335b"
+	}
+}
